@@ -1,4 +1,5 @@
 // Climbing the Leaderboard
+// Explanation: https://dev.to/xdmarttt/1-of-365-coding-challenge-41mp
 // https://www.hackerrank.com/challenges/climbing-the-leaderboard/
 
 function climbingLeaderboard(ranked, player) {
