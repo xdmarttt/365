@@ -1,4 +1,5 @@
 // Forming Magic Square
+// https://dev.to/xdmarttt/forming-a-magic-square-day-2-of-365-43a
 // https://www.hackerrank.com/challenges/magic-square-forming/problem
 function formingMagicSquare(s) {
     // will convert this one programatically
