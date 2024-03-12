@@ -1,3 +1,4 @@
+// Save the Prisoner
 // https://www.hackerrank.com/challenges/save-the-prisoner/
 function saveThePrisoner(n, m, s) {
     let result = 0;
